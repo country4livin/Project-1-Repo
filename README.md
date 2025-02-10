@@ -8,5 +8,3 @@ Change in cost of eggs over time period?
  - Are there any trends regionally?
  - difference in cost and sales of types of eggs?
 
-# school
-
