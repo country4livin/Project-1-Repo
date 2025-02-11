@@ -1,7 +1,8 @@
-# Project 1 - Janice 
-Effect of seasons on average price of eggs
-## Code Source
+# Project 1
+Question 4: Effect of seasons on average price of eggs
+# Code Source
 Jupyter code (Eggs_Season.ipynb) within Main branch
+# Question 4:
 ## Dependencies and Data Clean Up:
 Imported all dependencies, added warnings.filterwarnings('ignore'), and function that allows the display of more than one variable in a cell.  
 
@@ -19,7 +20,9 @@ season_sum_df DataFrame has the average weighted price by season for analysis.
 ## Summary Statistics and Mean Bar Chart by Seasons
 Generated a summary statistics table of mean, median, variance, standard deviation, and SEM of the weighted price average.  
 
-Generated a bar plot showing the weighted_price mean for each season. Graph can be found in Project 1 folder (Seasons_Bar_Graph.png)
+Generated a bar plot showing the weighted_price mean for each season.  
+
+Analysis can be found in presentation and within Jupyter notebook observations.
 ## Comparison of seasons versus average weighted price
 Calculated the IQR and quantitatively determine if there are any potential outliers.  
 
@@ -27,8 +30,8 @@ Created boxplot grouped by season. Graph can be found in Project 1 folder (Boxpl
 
 Performed Analysis on ANOVA. Results can be found in presentation and within Jupyter notebook discussion about the ANOVA.
 ## Correlation and Regression
-Created a scatter plot and regression on relationship between months and weighted_price.
+Created a scatter plot and regression on relationship between months and weighted_price. Analysis can be found within jupyter notebook discussion about linear relationship.
 ## References:
 United States Department of Agriculture - Agricultural Marketing Service. Report: National Weekly Sell Egg Inventory for 2024.  
 
-Used google for ANOVA analysis, accessed February 2025. (Group members for help in coding?)
+Used google for ANOVA analysis, accessed February 2025.
